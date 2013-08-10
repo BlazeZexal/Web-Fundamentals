@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+		<title>Kitten McKittens</title>
+	</head>
+	<body>
+	    <img src="http://placekitten.com/250/200">
+	        <p>
+	        I am 149 gagillion years and a half old, both male and female, and my hometown is everywhere at once.
+	        </p>
+	        <ul>
+	            <li style="font-size:20px; color:mediumaquamarine; font-family:Comic Sans MS">
+	                Intrests:
+	            </li>
+	                <ol>
+	                    <li>
+	                        Yarn
+	                    </li>
+	                    <li>
+	                        Catnip
+	                    </li>
+	                    <li>
+	                        <em>Sleeping</em>
+	                    </li>
+	                </ol>
+	            <li style="font-size:20px; color:mediumaquamarine; font-family:Comic Sans MS">
+	                Occupations:
+	            </li>
+	                <ol>
+	                    <li>
+	                        Litter Potrol
+	                    </li>
+	                    <li>
+	                        Catnip Cutter
+	                    </li>
+	                    <li>
+	                        <em>Sleeping</em>
+	                    </li>
+	                </ol>
+	            <li style="font-size:20px; color:mediumaquamarine; font-family:Comic Sans MS">
+	                Favorite Quotes:
+	            </li>
+	                <ol>
+	                    <li>
+	                       It doesn't matter if a cat is black or white, so long as it catches mice. <br>-Deng Xiaoping 
+	                    </li>
+	                    <li>
+	                        The trouble with a kitten is that eventually it becomes a cat.<br>-Ogden Nash 
+	                    </li>
+	                    <li>
+	                        Nip gived me teh snarfies.<br>-Icanhazcheezburger
+	                    </li>
+	                </ol>
+	            <li style="font-size:20px; color:mediumaquamarine; font-family:Comic Sans MS">
+	                Where I lived:
+	            </li>
+	                <ul>
+	                    <li>
+	                        <strong>The Pound</strong>
+	                    </li>
+	                    <li>
+	                        Mr. Johnson's House
+	                    </li>
+	                    <li>
+	                        Teh Inturwebz
+	                    </li>
+	                </ul>
+	        </ul>
+	</body>
+</html>
